@@ -15,7 +15,7 @@ class trapter {
 			
 			System.out.println("Santa Renata Diana, Szoft I N, 2022-02-22");
 			System.out.println("Feladat 0316");
-			
+			System.out.println("Trapez teruletenek kiszamitasa oldalakbol \n");
 			
 			System.out.print("a oldal: ");
 			double a = scan.nextDouble();
